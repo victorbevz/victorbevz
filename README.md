@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Viktor 👋
 
-<!--
-**victorbevz/victorbevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical applications with Python and enjoy turning ideas into working projects.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Course Progress Tracker | Python Task Manager |
+| --- | --- |
+| A web app for tracking courses and lessons. Built with Python, FastAPI, PostgreSQL, Docker, and JavaScript. | A desktop app for managing tasks and due dates. Built with Python and Tkinter. |
+| [View repository](https://github.com/victorbevz/course-progress-tracker) | [View repository](https://github.com/victorbevz/PythonTaskManager) |
+
+## Tech Stack
+
+**Python · FastAPI · PostgreSQL · Docker · JavaScript · Tkinter**
