@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm Viktor 👋
 
 I'm a software development student in Wrocław, Poland, focused on Python backend development.
@@ -14,4 +13,3 @@ I'm a software development student in Wrocław, Poland, focused on Python backen
 ## Tech Stack
 
 **Python · FastAPI · SQL · PostgreSQL · Docker Compose · Git**
-```
